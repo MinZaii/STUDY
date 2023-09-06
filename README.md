@@ -1,2 +1,2 @@
-# study-jpa
-JPA 공부
+# 공부하는 repsitory
+/study/jpa : jpa 공부
